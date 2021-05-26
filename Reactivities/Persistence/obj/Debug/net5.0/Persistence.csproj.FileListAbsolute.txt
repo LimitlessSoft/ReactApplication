@@ -1,0 +1,12 @@
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Aleksa\source\ReactApplication\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
